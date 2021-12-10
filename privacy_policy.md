@@ -1,5 +1,4 @@
-# covidcare-policy
-CovidCare Privacy Policy
+# CovidCare Privacy Policy
 __________________________
 
 ### BLACK COALITION AGAINST COVID
